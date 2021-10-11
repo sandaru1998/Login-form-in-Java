@@ -279,6 +279,7 @@ public class Login extends javax.swing.JFrame {
     {
         WindowEvent WinCloseing = new WindowEvent(this,WindowEvent.WINDOW_CLOSING); 
     }
-    
+    //for a different project, ediths were to be made later
+    //shift into flutter
     
 }
